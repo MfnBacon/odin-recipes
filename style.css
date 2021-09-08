@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(221, 215, 215);
+}
+
+li a {
+    font-style:italic;
+    text-decoration:none;
+    list-style:none;
+}
+
+ul {
+    list-style:none;
+}
+
+ol {
+    list-style:none;
+}
